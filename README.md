@@ -38,5 +38,3 @@ Features of this version:
 + All of feature in lower version
 + OAuth login
 + Api for manager user
-
-
